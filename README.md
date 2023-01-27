@@ -1,7 +1,6 @@
 # Jannis Jahr - Software Full Stack Developer
 ```sh
 $ whoami
-Jannis Jahr
 ```
 I am Jannis Jahr, a software full stack developer and app developer based in Berlin. I have a passion for creating innovative and efficient web applications.
 ## Technologies I specialize in
